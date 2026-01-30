@@ -1,0 +1,200 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+li, a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: 700px;
+}
+
+header{
+    display: flex;
+    background-color: rgb(60, 0, 116);
+    padding: 10px 30px;
+    cursor: pointer;
+    word-spacing: 15px;
+}
+
+.WhatsApp img{
+    margin-left: 80%;
+    margin-top: -8.6%;
+    cursor: pointer;
+}
+
+a:hover{
+    color: rgb(153, 0, 255);
+}
+
+button:hover{
+    color: rgb(153, 0, 255);
+}
+
+.logo-tipo img{
+    border-radius: 50%;
+    margin-right: 100%;
+}
+
+.nav-links{
+    list-style: none;
+}
+
+.nav-links li{
+    display: inline-block;
+    padding: 5px 20px;
+}
+
+@media (max-width: 1344px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 310%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1324px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 310%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1304px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 310%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 13px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 250%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1274px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 225%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1224px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 200%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1174px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 175%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1124px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 150%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1074px)
+{
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 125%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1024px)
+{   
+    button{
+        padding: 10px 20px;
+        color: rgb(60, 0, 116);
+        background-color: rgb(255, 255, 255);
+        border-color: black;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 100%;
+        margin-top: 5%;
+        cursor: pointer;
+    }
+}
+

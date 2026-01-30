@@ -1,0 +1,9 @@
+.Box-0{
+  justify-self: center;
+  width: 800px;
+  padding: 20px;
+  color: rgb(255, 0, 221);
+  border: 8px solid rgb(60, 0, 116);
+  margin: 30px;
+  text-align: center;
+}
